@@ -1,3 +1,3 @@
 # Web-Scraping
 
-A webscraping project that implement the three different scraping
+A webscraping project that using the three different scraping tools.
