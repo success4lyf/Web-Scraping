@@ -1,3 +1,3 @@
 # Web-Scraping
 
-A webscraping project that using the three different scraping tools.
+webscraping using the three popolar webscraping tools for python.
